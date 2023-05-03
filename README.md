@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center"> I'm Kolya, a Junior Front-End Developer 🦾🇺🇦</div>  
+### <div align="center"> I'm Kolya, a Front-End Developer 🦾🇺🇦</div>  
   
 
 -  🟨 Live in Kyiv, Ukraine 🟦  
