@@ -9,7 +9,7 @@
 -  🟨 Live in Kyiv, Ukraine 🟦  
   
 
-- 🌱 I’m 17 y.o.  
+- 🌱 I’m 18 y.o.  
   
 
 <br/>  
